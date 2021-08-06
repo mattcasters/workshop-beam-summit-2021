@@ -1,0 +1,42 @@
+{
+  "engineRunConfiguration": {
+    "BeamSparkPipelineEngine": {
+      "sparkMinReadTimeMillis": "",
+      "sparkMaster": "local[4]",
+      "sparkEnableSparkMetricSinks": true,
+      "streamingHopTransformsBufferSize": "5000",
+      "sparkCheckpointDir": "",
+      "sparkMaxRecordsPerBatch": "5000",
+      "userAgent": "Hop",
+      "sparkBatchIntervalMillis": "5000",
+      "pluginsToStage": "",
+      "tempLocation": "/tmp",
+      "sparkCheckpointDurationMillis": "",
+      "fatJar": "",
+      "sparkBundleSize": "5000",
+      "sparkReadTimePercentage": "",
+      "streamingHopTransformsFlushInterval": "5000",
+      "transformPluginClasses": "",
+      "xpPluginClasses": ""
+    }
+  },
+  "configurationVariables": [
+    {
+      "name": "DATA_INPUT_CUSTOMERS",
+      "description": "",
+      "value": "/home/matt/parking/customers-noheader-1M.txt"
+    },
+    {
+      "name": "DATA_INPUT_STATE",
+      "description": "",
+      "value": "${PROJECT_HOME}/input/state-data.txt"
+    },
+    {
+      "name": "DATA_OUTPUT",
+      "description": "",
+      "value": "${PROJECT_HOME}/output"
+    }
+  ],
+  "name": "Spark local",
+  "description": ""
+}

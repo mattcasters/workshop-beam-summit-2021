@@ -1,0 +1,201 @@
+id,state,population,nrPerState,label,Comment
+" 112",ALABAMA,," 1",A-M,no comment.
+" 1",ALASKA,739795," 4",A-M,no comment.
+" 111",ALASKA,739795," 4",A-M,no comment.
+" 124",ALASKA,739795," 4",A-M,no comment.
+" 63",AMERICAN SAMOA,," 4",A-M,no comment.
+" 42",ALASKA,739795," 4",N-Z,no comment.
+" 15",AMERICAN SAMOA,," 4",N-Z,no comment.
+" 128",AMERICAN SAMOA,," 4",N-Z,no comment.
+" 193",AMERICAN SAMOA,," 4",N-Z,no comment.
+" 107",ARIZONA,7016270," 2",N-Z,no comment.
+" 180",ARIZONA,7016270," 2",N-Z,no comment.
+" 10",ARKANSAS,3004279," 3",N-Z,no comment.
+" 187",ARKANSAS,3004279," 3",N-Z,no comment.
+" 12",CALIFORNIA,39536653," 7",N-Z,Some comment about California
+" 26",CALIFORNIA,39536653," 7",N-Z,Some comment about California
+" 44",CALIFORNIA,39536653," 7",N-Z,Some comment about California
+" 177",CALIFORNIA,39536653," 7",N-Z,Some comment about California
+" 25",CALIFORNIA,39536653," 7",A-M,Some comment about California
+" 135",CALIFORNIA,39536653," 7",A-M,Some comment about California
+" 181",CALIFORNIA,39536653," 7",A-M,Some comment about California
+" 152",ARKANSAS,3004279," 3",A-M,no comment.
+" 41",COLORADO,5607154," 5",A-M,no comment.
+" 165",COLORADO,5607154," 5",A-M,no comment.
+" 167",COLORADO,5607154," 5",A-M,no comment.
+" 86",CONNECTICUT,3588184," 1",A-M,no comment.
+" 146",DELAWARE,961939," 2",A-M,no comment.
+" 76",COLORADO,5607154," 5",N-Z,no comment.
+" 199",COLORADO,5607154," 5",N-Z,no comment.
+" 188",DELAWARE,961939," 2",N-Z,no comment.
+" 40",DISTRICT OF COLUMBIA,693972," 4",N-Z,no comment.
+" 58",DISTRICT OF COLUMBIA,693972," 4",N-Z,no comment.
+" 89",DISTRICT OF COLUMBIA,693972," 4",N-Z,no comment.
+" 65",FEDERATED STATES OF MICRONESIA,," 1",N-Z,no comment.
+" 30",GEORGIA,10429379," 6",N-Z,no comment.
+" 51",GEORGIA,10429379," 6",N-Z,no comment.
+" 150",DISTRICT OF COLUMBIA,693972," 4",A-M,no comment.
+" 96",FLORIDA,20984400," 5",N-Z,Some remark on Floridians
+" 178",FLORIDA,20984400," 5",N-Z,Some remark on Floridians
+" 59",FLORIDA,20984400," 5",A-M,Some remark on Floridians
+" 70",FLORIDA,20984400," 5",A-M,Some remark on Floridians
+" 125",FLORIDA,20984400," 5",A-M,Some remark on Floridians
+" 2",GEORGIA,10429379," 6",A-M,no comment.
+" 81",GEORGIA,10429379," 6",A-M,no comment.
+" 109",GEORGIA,10429379," 6",A-M,no comment.
+" 113",GEORGIA,10429379," 6",A-M,no comment.
+" 57",GUAM,," 2",A-M,no comment.
+" 82",GUAM,," 2",A-M,no comment.
+" 110",HAWAII,1427538," 3",A-M,no comment.
+" 143",HAWAII,1427538," 3",A-M,no comment.
+" 121",IDAHO,," 2",A-M,no comment.
+" 33",INDIANA,6666818," 6",A-M,no comment.
+" 84",INDIANA,6666818," 6",A-M,no comment.
+" 151",INDIANA,6666818," 6",A-M,no comment.
+" 190",INDIANA,6666818," 6",A-M,no comment.
+" 115",KANSAS,2913123," 4",A-M,no comment.
+" 56",HAWAII,1427538," 3",N-Z,no comment.
+" 71",IDAHO,," 2",N-Z,no comment.
+" 5",INDIANA,6666818," 6",N-Z,no comment.
+" 129",INDIANA,6666818," 6",N-Z,no comment.
+" 55",KANSAS,2913123," 4",N-Z,no comment.
+" 97",KANSAS,2913123," 4",N-Z,no comment.
+" 168",KANSAS,2913123," 4",N-Z,no comment.
+" 17",KENTUCKY,4454189," 4",N-Z,no comment.
+" 166",KENTUCKY,4454189," 4",N-Z,no comment.
+" 80",LOUISIANA,4684333," 4",N-Z,no comment.
+" 163",LOUISIANA,4684333," 4",N-Z,no comment.
+" 19",MAINE,1335907," 3",N-Z,no comment.
+" 87",MAINE,1335907," 3",N-Z,no comment.
+" 108",MARSHALL ISLANDS,," 3",N-Z,no comment.
+" 175",KENTUCKY,4454189," 4",A-M,no comment.
+" 194",KENTUCKY,4454189," 4",A-M,no comment.
+" 50",LOUISIANA,4684333," 4",A-M,no comment.
+" 140",LOUISIANA,4684333," 4",A-M,no comment.
+" 91",MAINE,1335907," 3",A-M,no comment.
+" 114",MARSHALL ISLANDS,," 3",A-M,no comment.
+" 196",MARSHALL ISLANDS,," 3",A-M,no comment.
+" 6",MARYLAND,6052177," 4",A-M,no comment.
+" 20",MARYLAND,6052177," 4",A-M,no comment.
+" 78",MARYLAND,6052177," 4",A-M,no comment.
+" 99",MARYLAND,6052177," 4",A-M,no comment.
+" 95",MASSACHUSETTS,6859819," 4",A-M,no comment.
+" 153",MASSACHUSETTS,6859819," 4",A-M,no comment.
+" 147",MINNESOTA,5576606," 3",A-M,no comment.
+" 29",MISSISSIPPI,2984100," 4",A-M,no comment.
+" 35",MISSISSIPPI,2984100," 4",A-M,no comment.
+" 27",MISSOURI,6113532," 6",A-M,no comment.
+" 16",MASSACHUSETTS,6859819," 4",N-Z,no comment.
+" 164",MASSACHUSETTS,6859819," 4",N-Z,no comment.
+" 103",MICHIGAN,9962311," 1",N-Z,no comment.
+" 72",MINNESOTA,5576606," 3",N-Z,no comment.
+" 170",MINNESOTA,5576606," 3",N-Z,no comment.
+" 173",MISSISSIPPI,2984100," 4",N-Z,no comment.
+" 185",MISSISSIPPI,2984100," 4",N-Z,no comment.
+" 54",MISSOURI,6113532," 6",N-Z,no comment.
+" 94",MISSOURI,6113532," 6",N-Z,no comment.
+" 186",MISSOURI,6113532," 6",N-Z,no comment.
+" 144",MONTANA,1050493," 5",N-Z,no comment.
+" 155",MONTANA,1050493," 5",N-Z,no comment.
+" 198",MONTANA,1050493," 5",N-Z,no comment.
+" 172",NEBRASKA,1920076," 4",N-Z,no comment.
+" 182",NEBRASKA,1920076," 4",N-Z,no comment.
+" 28",NEVADA,," 6",N-Z,no comment.
+" 36",NEVADA,," 6",N-Z,no comment.
+" 62",NEVADA,," 6",N-Z,no comment.
+" 85",NEVADA,," 6",N-Z,no comment.
+" 106",MISSOURI,6113532," 6",A-M,no comment.
+" 127",MISSOURI,6113532," 6",A-M,no comment.
+" 14",MONTANA,1050493," 5",A-M,no comment.
+" 137",MONTANA,1050493," 5",A-M,no comment.
+" 132",NEBRASKA,1920076," 4",A-M,no comment.
+" 142",NEBRASKA,1920076," 4",A-M,no comment.
+" 93",NEVADA,," 6",A-M,no comment.
+" 118",NEVADA,," 6",A-M,no comment.
+" 11",NEW HAMPSHIRE,," 4",A-M,no comment.
+" 34",NEW HAMPSHIRE,," 4",A-M,no comment.
+" 145",NEW HAMPSHIRE,," 4",A-M,no comment.
+" 161",NEW JERSEY,," 5",A-M,no comment.
+" 162",NEW JERSEY,," 5",A-M,no comment.
+" 122",NEW YORK,19849399," 5",A-M,New York rocks!
+" 154",NEW YORK,19849399," 5",A-M,New York rocks!
+" 157",NEW YORK,19849399," 5",A-M,New York rocks!
+" 23",NORTH CAROLINA,10273419," 7",A-M,no comment.
+" 148",NEW HAMPSHIRE,," 4",N-Z,no comment.
+" 3",NEW JERSEY,," 5",N-Z,no comment.
+" 141",NEW JERSEY,," 5",N-Z,no comment.
+" 160",NEW JERSEY,," 5",N-Z,no comment.
+" 79",NEW MEXICO,," 2",N-Z,no comment.
+" 100",NEW MEXICO,," 2",N-Z,no comment.
+" 9",NORTH CAROLINA,10273419," 7",N-Z,no comment.
+" 52",NORTH CAROLINA,10273419," 7",N-Z,no comment.
+" 105",NORTH CAROLINA,10273419," 7",N-Z,no comment.
+" 159",NORTH CAROLINA,10273419," 7",N-Z,no comment.
+" 73",NORTH DAKOTA,755393," 4",N-Z,no comment.
+" 74",NORTH DAKOTA,755393," 4",N-Z,no comment.
+" 149",NORTH DAKOTA,755393," 4",N-Z,no comment.
+" 200",NORTH DAKOTA,755393," 4",N-Z,no comment.
+" 102",NORTHERN MARIANA ISLANDS,," 5",N-Z,no comment.
+" 119",NORTHERN MARIANA ISLANDS,," 5",N-Z,no comment.
+" 31",OKLAHOMA,3930864," 7",N-Z,no comment.
+" 64",OKLAHOMA,3930864," 7",N-Z,no comment.
+" 117",OKLAHOMA,3930864," 7",N-Z,no comment.
+" 189",OKLAHOMA,3930864," 7",N-Z,no comment.
+" 37",PALAU,," 4",N-Z,no comment.
+" 7",PENNSYLVANIA,12805537," 1",N-Z,no comment.
+" 179",PUERTO RICO,," 2",N-Z,no comment.
+" 60",RHODE ISLAND,1059639," 2",N-Z,no comment.
+" 98",RHODE ISLAND,1059639," 2",N-Z,no comment.
+" 176",SOUTH CAROLINA,5024369," 1",N-Z,no comment.
+" 61",SOUTH DAKOTA,869666," 4",N-Z,no comment.
+" 139",SOUTH DAKOTA,869666," 4",N-Z,no comment.
+" 90",TEXAS,28304596," 4",N-Z,no comment.
+" 47",UTAH,3101833," 5",N-Z,no comment.
+" 156",UTAH,3101833," 5",N-Z,no comment.
+" 171",UTAH,3101833," 5",N-Z,no comment.
+" 77",VERMONT,623657," 2",N-Z,no comment.
+" 123",VERMONT,623657," 2",N-Z,no comment.
+" 22",VIRGIN ISLANDS,," 2",N-Z,no comment.
+" 75",VIRGINIA,8470020," 3",N-Z,no comment.
+" 197",VIRGINIA,8470020," 3",N-Z,no comment.
+" 24",WASHINGTON,7405743," 4",N-Z,no comment.
+" 69",WASHINGTON,7405743," 4",N-Z,no comment.
+" 120",WASHINGTON,7405743," 4",N-Z,no comment.
+" 92",WEST VIRGINIA,1815857," 4",N-Z,no comment.
+" 116",WEST VIRGINIA,1815857," 4",N-Z,no comment.
+" 133",WEST VIRGINIA,1815857," 4",N-Z,no comment.
+" 18",WISCONSIN,5795483," 3",N-Z,no comment.
+" 126",WISCONSIN,5795483," 3",N-Z,no comment.
+" 174",WYOMING,579315," 3",N-Z,no comment.
+" 38",undefined,," 1",N-Z,no comment.
+" 53",NORTH CAROLINA,10273419," 7",A-M,no comment.
+" 195",NORTH CAROLINA,10273419," 7",A-M,no comment.
+" 49",NORTHERN MARIANA ISLANDS,," 5",A-M,no comment.
+" 136",NORTHERN MARIANA ISLANDS,," 5",A-M,no comment.
+" 184",NORTHERN MARIANA ISLANDS,," 5",A-M,no comment.
+" 13",OKLAHOMA,3930864," 7",A-M,no comment.
+" 39",OKLAHOMA,3930864," 7",A-M,no comment.
+" 104",OKLAHOMA,3930864," 7",A-M,no comment.
+" 131",OREGON,4142776," 2",A-M,no comment.
+" 169",OREGON,4142776," 2",A-M,no comment.
+" 8",PALAU,," 4",A-M,no comment.
+" 46",PALAU,," 4",A-M,no comment.
+" 68",PALAU,," 4",A-M,no comment.
+" 183",PUERTO RICO,," 2",A-M,no comment.
+" 32",SOUTH DAKOTA,869666," 4",A-M,no comment.
+" 88",SOUTH DAKOTA,869666," 4",A-M,no comment.
+" 21",TENNESSEE,," 1",A-M,no comment.
+" 45",TEXAS,28304596," 4",A-M,no comment.
+" 83",TEXAS,28304596," 4",A-M,no comment.
+" 134",TEXAS,28304596," 4",A-M,no comment.
+" 130",UTAH,3101833," 5",A-M,no comment.
+" 191",UTAH,3101833," 5",A-M,no comment.
+" 43",VIRGIN ISLANDS,," 2",A-M,no comment.
+" 67",VIRGINIA,8470020," 3",A-M,no comment.
+" 192",WASHINGTON,7405743," 4",A-M,no comment.
+" 48",WEST VIRGINIA,1815857," 4",A-M,no comment.
+" 101",WISCONSIN,5795483," 3",A-M,no comment.
+" 138",WYOMING,579315," 3",A-M,no comment.
+" 158",WYOMING,579315," 3",A-M,no comment.
+" 4",NEW YORK,19849399," 5",N-Z,New York rocks!
+" 66",NEW YORK,19849399," 5",N-Z,New York rocks!

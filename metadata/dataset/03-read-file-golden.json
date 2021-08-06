@@ -1,0 +1,40 @@
+{
+  "base_filename": "03-read-file-golden.csv",
+  "name": "03-read-file-golden",
+  "description": "",
+  "dataset_fields": [
+    {
+      "field_comment": "",
+      "field_length": 30,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_format": "",
+      "field_name": "state"
+    },
+    {
+      "field_comment": "",
+      "field_length": -1,
+      "field_type": 5,
+      "field_precision": 0,
+      "field_format": " 0",
+      "field_name": "count"
+    },
+    {
+      "field_comment": "",
+      "field_length": 9,
+      "field_type": 5,
+      "field_precision": 0,
+      "field_format": "#",
+      "field_name": "population"
+    },
+    {
+      "field_comment": "",
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_format": "",
+      "field_name": "occurrences"
+    }
+  ],
+  "folder_name": ""
+}

@@ -1,0 +1,56 @@
+{
+  "base_filename": "06-complex-scenarios-golden.csv",
+  "name": "06-complex-scenarios-golden",
+  "description": "",
+  "dataset_fields": [
+    {
+      "field_comment": "",
+      "field_length": 15,
+      "field_type": 5,
+      "field_precision": 0,
+      "field_format": " 0",
+      "field_name": "id"
+    },
+    {
+      "field_comment": "",
+      "field_length": 30,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_format": "",
+      "field_name": "state"
+    },
+    {
+      "field_comment": "",
+      "field_length": 9,
+      "field_type": 5,
+      "field_precision": 0,
+      "field_format": "#",
+      "field_name": "population"
+    },
+    {
+      "field_comment": "",
+      "field_length": -1,
+      "field_type": 5,
+      "field_precision": 0,
+      "field_format": " 0",
+      "field_name": "nrPerState"
+    },
+    {
+      "field_comment": "",
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_format": "",
+      "field_name": "label"
+    },
+    {
+      "field_comment": "",
+      "field_length": -1,
+      "field_type": 2,
+      "field_precision": -1,
+      "field_format": "",
+      "field_name": "Comment"
+    }
+  ],
+  "folder_name": ""
+}

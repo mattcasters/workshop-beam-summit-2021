@@ -1,0 +1,117 @@
+{
+  "variableValues": [],
+  "database_replacements": [],
+  "autoOpening": true,
+  "basePath": "",
+  "golden_data_sets": [
+    {
+      "field_mappings": [
+        {
+          "transform_field": "Comment",
+          "data_set_field": "Comment"
+        },
+        {
+          "transform_field": "Population",
+          "data_set_field": "population"
+        },
+        {
+          "transform_field": "id",
+          "data_set_field": "id"
+        },
+        {
+          "transform_field": "label",
+          "data_set_field": "label"
+        },
+        {
+          "transform_field": "nrPerState",
+          "data_set_field": "nrPerState"
+        },
+        {
+          "transform_field": "state",
+          "data_set_field": "state"
+        }
+      ],
+      "field_order": [
+        "id"
+      ],
+      "transform_name": "06-complex-scenarios",
+      "data_set_name": "06-complex-scenarios-golden"
+    }
+  ],
+  "input_data_sets": [
+    {
+      "field_mappings": [
+        {
+          "transform_field": "id",
+          "data_set_field": "id"
+        },
+        {
+          "transform_field": "First name",
+          "data_set_field": "First name"
+        },
+        {
+          "transform_field": "Last name",
+          "data_set_field": "Last name"
+        },
+        {
+          "transform_field": "cust_zip_code",
+          "data_set_field": "cust_zip_code"
+        },
+        {
+          "transform_field": "city",
+          "data_set_field": "city"
+        },
+        {
+          "transform_field": "birthdate",
+          "data_set_field": "birthdate"
+        },
+        {
+          "transform_field": "street",
+          "data_set_field": "street"
+        },
+        {
+          "transform_field": "housenr",
+          "data_set_field": "housenr"
+        },
+        {
+          "transform_field": "state",
+          "data_set_field": "state"
+        },
+        {
+          "transform_field": "stateCode",
+          "data_set_field": "stateCode"
+        }
+      ],
+      "field_order": [
+        "state",
+        "id"
+      ],
+      "transform_name": "Customer data",
+      "data_set_name": "customers-input"
+    },
+    {
+      "field_mappings": [
+        {
+          "transform_field": "State",
+          "data_set_field": "State"
+        },
+        {
+          "transform_field": "Population",
+          "data_set_field": "Population"
+        }
+      ],
+      "field_order": [
+        "State",
+        "Population"
+      ],
+      "transform_name": "State data",
+      "data_set_name": "state-data-input"
+    }
+  ],
+  "name": "06-complex-scenarios UNIT",
+  "description": "",
+  "trans_test_tweaks": [],
+  "persist_filename": "",
+  "pipeline_filename": "./06-complex-scenarios.hpl",
+  "test_type": "UNIT_TEST"
+}

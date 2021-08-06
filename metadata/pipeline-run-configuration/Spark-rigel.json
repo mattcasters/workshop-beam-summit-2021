@@ -1,0 +1,42 @@
+{
+  "engineRunConfiguration": {
+    "BeamSparkPipelineEngine": {
+      "sparkMinReadTimeMillis": "",
+      "sparkMaster": "spark://rigel:7077",
+      "sparkEnableSparkMetricSinks": true,
+      "streamingHopTransformsBufferSize": "5000",
+      "sparkCheckpointDir": "",
+      "sparkMaxRecordsPerBatch": "",
+      "userAgent": "Hop",
+      "sparkBatchIntervalMillis": "",
+      "pluginsToStage": "",
+      "tempLocation": "/tmp",
+      "sparkCheckpointDurationMillis": "",
+      "fatJar": "/home/matt/parking/hop-1.0-fat.jar",
+      "sparkBundleSize": "5000",
+      "sparkReadTimePercentage": "",
+      "streamingHopTransformsFlushInterval": "5000",
+      "transformPluginClasses": "",
+      "xpPluginClasses": ""
+    }
+  },
+  "configurationVariables": [
+    {
+      "name": "DATA_INPUT_CUSTOMERS",
+      "description": "",
+      "value": "/home/matt/parking/customers-noheader-1M.txt"
+    },
+    {
+      "name": "DATA_INPUT_STATE",
+      "description": "",
+      "value": "${PROJECT_HOME}/input/state-data.txt"
+    },
+    {
+      "name": "DATA_OUTPUT",
+      "description": "",
+      "value": "${PROJECT_HOME}/output"
+    }
+  ],
+  "name": "Spark-rigel",
+  "description": ""
+}

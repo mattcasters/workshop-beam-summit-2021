@@ -1,0 +1,47 @@
+{
+  "engineRunConfiguration": {
+    "BeamDataFlowPipelineEngine": {
+      "gcpSubnetwork": "",
+      "gcpWorkerMachineType": "${DATAFLOW_MACHINE_TYPE}",
+      "streamingHopTransformsBufferSize": "${DATAFLOW_HOP_BUFFER_SIZE}",
+      "gcpMaximumNumberOfWorkers": "${DATAFLOW_MAX_WORKERS}",
+      "gcpZone": "",
+      "gcpProjectId": "${DATAFLOW_PROJECT}",
+      "userAgent": "${DATAFLOW_USER_AGENT}",
+      "gcpRegion": "${DATAFLOW_REGION}",
+      "pluginsToStage": "",
+      "gcpUsingPublicIps": true,
+      "tempLocation": "${DATAFLOW_TEMP_LOCATION}",
+      "gcpWorkerDiskType": "",
+      "gcpAppName": "${DATAFLOW_APPLICATION_NAME}",
+      "gcpInitialNumberOfWorkers": "${DATAFLOW_MIN_WORKERS}",
+      "gcpStagingLocation": "${DATAFLOW_STAGING_LOCATION}",
+      "fatJar": "${DATAFLOW_FAT_JAR}",
+      "streamingHopTransformsFlushInterval": "${DATAFLOW_HOP_FLUSH_INTERVAL}",
+      "gcpNetwork": "",
+      "transformPluginClasses": "",
+      "gcpDiskSizeGb": "",
+      "gcpAutoScalingAlgorithm": "",
+      "xpPluginClasses": ""
+    }
+  },
+  "configurationVariables": [
+    {
+      "name": "DATA_INPUT_CUSTOMERS",
+      "description": "",
+      "value": "gs://apachehop/input/customers-noheader-1M.txt"
+    },
+    {
+      "name": "DATA_INPUT_STATE",
+      "description": "",
+      "value": "gs://apachehop/input/state-data.txt"
+    },
+    {
+      "name": "DATA_OUTPUT",
+      "description": "",
+      "value": "gs://apachehop/output"
+    }
+  ],
+  "name": "Dataflow",
+  "description": ""
+}
