@@ -3,41 +3,7 @@
   "database_replacements": [],
   "autoOpening": true,
   "basePath": "",
-  "golden_data_sets": [
-    {
-      "field_mappings": [
-        {
-          "transform_field": "Comment",
-          "data_set_field": "Comment"
-        },
-        {
-          "transform_field": "Population",
-          "data_set_field": "population"
-        },
-        {
-          "transform_field": "id",
-          "data_set_field": "id"
-        },
-        {
-          "transform_field": "label",
-          "data_set_field": "label"
-        },
-        {
-          "transform_field": "nrPerState",
-          "data_set_field": "nrPerState"
-        },
-        {
-          "transform_field": "state",
-          "data_set_field": "state"
-        }
-      ],
-      "field_order": [
-        "id"
-      ],
-      "transform_name": "06-complex-scenarios",
-      "data_set_name": "06-complex-scenarios-golden"
-    }
-  ],
+  "golden_data_sets": [],
   "input_data_sets": [
     {
       "field_mappings": [

@@ -88,7 +88,7 @@
     <hop>
       <from>truncate customers table</from>
       <to>04-load-in-database.hpl</to>
-      <enabled>Y</enabled>
+      <enabled>N</enabled>
       <evaluation>Y</evaluation>
       <unconditional>N</unconditional>
     </hop>

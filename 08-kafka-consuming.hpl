@@ -34,8 +34,8 @@
     </hop>
   </order>
   <transform>
-    <name>Beam Kafka Consume</name>
-    <type>BeamKafkaConsume</type>
+    <name>08-kafka-comsuming</name>
+    <type>BeamOutput</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -44,21 +44,13 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <allow_commit_on_consumed>Y</allow_commit_on_consumed>
-    <bootstrap_servers>${KAFKA_SERVER}</bootstrap_servers>
-    <config_options>
-</config_options>
-    <group_id>demo</group_id>
-    <key_field>uuid</key_field>
-    <message_field>line</message_field>
-    <restrict_to_committed>N</restrict_to_committed>
-    <topics>${KAFKA_TOPIC}</topics>
-    <use_create_time>N</use_create_time>
-    <use_log_append_time>N</use_log_append_time>
-    <use_processing_time>Y</use_processing_time>
+    <file_prefix>08-kafka-comsuming</file_prefix>
+    <file_suffix>.csv</file_suffix>
+    <output_location>${DATA_OUTPUT}</output_location>
+    <windowed>Y</windowed>
     <attributes/>
     <GUI>
-      <xloc>144</xloc>
+      <xloc>448</xloc>
       <yloc>112</yloc>
     </GUI>
   </transform>
@@ -86,8 +78,8 @@
     </GUI>
   </transform>
   <transform>
-    <name>08-kafka-comsuming</name>
-    <type>BeamOutput</type>
+    <name>Beam Kafka Consume</name>
+    <type>BeamKafkaConsume</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -96,14 +88,21 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <file_description_name/>
-    <file_prefix>08-kafka-comsuming</file_prefix>
-    <file_suffix>.csv</file_suffix>
-    <output_location>${DATA_OUTPUT}</output_location>
-    <windowed>Y</windowed>
+    <allow_commit_on_consumed>Y</allow_commit_on_consumed>
+    <bootstrap_servers>${KAFKA_SERVER}</bootstrap_servers>
+    <config_options>
+</config_options>
+    <group_id>demo</group_id>
+    <key_field>uuid</key_field>
+    <message_field>line</message_field>
+    <restrict_to_committed>N</restrict_to_committed>
+    <topics>${KAFKA_TOPIC}</topics>
+    <use_create_time>N</use_create_time>
+    <use_log_append_time>N</use_log_append_time>
+    <use_processing_time>Y</use_processing_time>
     <attributes/>
     <GUI>
-      <xloc>448</xloc>
+      <xloc>144</xloc>
       <yloc>112</yloc>
     </GUI>
   </transform>

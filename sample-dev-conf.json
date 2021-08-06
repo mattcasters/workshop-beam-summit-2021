@@ -1,0 +1,79 @@
+{
+  "variables" : [ {
+    "name" : "DATAFLOW_APPLICATION_NAME",
+    "value" : "Hop",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_FAT_JAR",
+    "value" : "/home/matt/parking/hop-1.0-fat.jar",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_HOP_BUFFER_SIZE",
+    "value" : "5000",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_HOP_FLUSH_INTERVAL",
+    "value" : "5000",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_MACHINE_TYPE",
+    "value" : "n1-standard-2",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_MAX_WORKERS",
+    "value" : "2",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_MIN_WORKERS",
+    "value" : "2",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_PROJECT",
+    "value" : "apachehop",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_REGION",
+    "value" : "us-east1",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_STAGING_LOCATION",
+    "value" : "gs://apachehop/binaries/",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_TEMP_LOCATION",
+    "value" : "gs://apachehop/tmp/",
+    "description" : ""
+  }, {
+    "name" : "DATAFLOW_USER_AGENT",
+    "value" : "Hop",
+    "description" : ""
+  }, {
+    "name" : "POSTGRES_HOSTNAME",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "POSTGRES_PORT",
+    "value" : "5432",
+    "description" : ""
+  }, {
+    "name" : "POSTGRES_DB",
+    "value" : "test",
+    "description" : ""
+  }, {
+    "name" : "POSTGRES_USERNAME",
+    "value" : "matt",
+    "description" : ""
+  }, {
+    "name" : "POSTGRES_PASSWORD",
+    "value" : "abcd",
+    "description" : ""
+  }, {
+    "name" : "KAFKA_SERVER",
+    "value" : "sandbox.kettle.be:9092",
+    "description" : ""
+  }, {
+    "name" : "KAFKA_TOPIC",
+    "value" : "got",
+    "description" : ""
+  } ]
+}
